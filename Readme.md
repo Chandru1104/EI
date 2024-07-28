@@ -4,7 +4,7 @@
 
 ## i) Behavioral Design Patterns
 
-- Use Case 1: **_Strategy Pattern_**
+- Use Case 1: **_State Pattern_**
 
   **Payment Processing System**
 
@@ -12,7 +12,7 @@
 
   ![State Pattern](./Exercise%201/output/StatePattern.png)
 
-- Use Case 2: **_State Pattern_**
+- Use Case 2: **_Strategy Pattern_**
 
   **Traffic Light System**
 
