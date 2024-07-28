@@ -58,7 +58,7 @@
 
 ## 2. Mini-Project
 
-## Project 8: Virtual Classroom Manager Programming Exercise
+## Virtual Classroom Manager Programming Exercise
 
 ### Problem Statement
 
