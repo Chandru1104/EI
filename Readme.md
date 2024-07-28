@@ -6,17 +6,17 @@
 
 - Use Case 1: **_State Pattern_**
 
-  **Payment Processing System**
+  **Traffic Light System**
 
-  Description: Different payment methods (Credit Card, PayPal, Bitcoin) can be used interchangeably in a shopping cart system.
+  Description: A traffic light system that changes state from Red to Green to Yellow in a cyclic manner.
 
   ![State Pattern](./Exercise%201/output/StatePattern.png)
 
 - Use Case 2: **_Strategy Pattern_**
 
-  **Traffic Light System**
+  **Payment Processing System**
 
-  Description: A traffic light system that changes state from Red to Green to Yellow in a cyclic manner.
+  Description: Different payment methods (Credit Card, PayPal, Bitcoin) can be used interchangeably in a shopping cart system.
 
   ![Strategy Pattern](./Exercise%201/output/StrategyPattern.png)
 
